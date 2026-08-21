@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 EUGENE MOGENI ABUGA
+# EUGENE MOGENI ABUGA
 
 ### `SOFTWARE ENGINEER • AI/ML • FULL-STACK • DISTRIBUTED SYSTEMS`
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛰️ ABOUT ME
+## ABOUT ME
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
@@ -39,21 +39,21 @@
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-* 🎓 4th-year **Informatics & Computer Science** student at Strathmore University
-* 🧠 Building **AI agents and intelligent applications**
-* ⚡ Full-stack development across **frontend, backend & infrastructure**
-* 💳 Experience integrating **M-Pesa / financial APIs**
-* 🔗 Working with **Web3 infrastructure and decentralized applications**
-* 🛰️ Exploring **distributed systems, system design & applied AI/ML**
-* 🚀 Interested in building products that move from **idea → system → production**
+*  4th-year **Informatics & Computer Science** student at Strathmore University
+* Building **AI agents and intelligent applications**
+* Full-stack development across **frontend, backend & infrastructure**
+* Experience integrating **M-Pesa / financial APIs**
+* Working with **Web3 infrastructure and decentralized applications**
+* xploring **distributed systems, system design & applied AI/ML**
+* Interested in building products that move from **idea → system → production**
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# FEATURED PROJECTS
 
 <div align="center">
 
-### 🧠 NORT
+###  NORT
 
 **AI-Powered Prediction Market Trading Advisor**
 
@@ -63,13 +63,13 @@ NORT combines a **FastAPI + Next.js application**, an **OpenClaw-powered AI trad
 
 **What I worked on**
 
-* 🔐 Privy JWKS authentication
-* ⚡ Live trading engine
-* ✍️ EIP-712 order signing
-* 💳 Pretium & M-Pesa fiat on/off-ramp
-* 🌉 LI.FI cross-chain bridging
-* 🤖 AI trading agent integration
-* 📱 Telegram companion bot
+* Privy JWKS authentication
+* Live trading engine
+* EIP-712 order signing
+* Pretium & M-Pesa fiat on/off-ramp
+* LI.FI cross-chain bridging
+* AI trading agent integration
+* Telegram companion bot
 
 **Stack**
 
@@ -87,7 +87,7 @@ NORT combines a **FastAPI + Next.js application**, an **OpenClaw-powered AI trad
 
 <div align="center">
 
-### 🌍 AMCoP
+### AMCoP
 
 **Africa Methane Community of Practice**
 
@@ -111,7 +111,7 @@ A production public website built and deployed during my **AI Agent internship a
 
 <div align="center">
 
-### 💰 StuChama
+### StuChama
 
 **Distributed Backend for Group Financial Management**
 
@@ -119,12 +119,12 @@ A production public website built and deployed during my **AI Agent internship a
 
 A multi-user financial platform focused on group savings and financial management.
 
-* 🔐 Role-based access control
-* ⚡ Asynchronous request processing
-* 🔄 Concurrent transaction handling
-* 💳 M-Pesa Daraja integration
-* 🛡️ Secure callbacks & failure recovery
-* 🗄️ PostgreSQL-backed architecture
+* Role-based access control
+* Asynchronous request processing
+* Concurrent transaction handling
+* M-Pesa Daraja integration
+* Secure callbacks & failure recovery
+* PostgreSQL-backed architecture
 
 **Stack**
 
@@ -132,7 +132,7 @@ A multi-user financial platform focused on group savings and financial managemen
 
 ---
 
-# 🌐 TECHNOLOGY UNIVERSE
+# TECHNOLOGY UNIVERSE
 
 <div align="center">
 
@@ -142,19 +142,19 @@ A multi-user financial platform focused on group savings and financial managemen
 
 <br><br>
 
-### ⚛️ FRONTEND
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
 <br><br>
 
-### ⚙️ BACKEND & SYSTEMS
+### BACKEND & SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
 <br><br>
 
-### 🤖 AI / DATA
+### AI / DATA
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 
@@ -164,7 +164,7 @@ A multi-user financial platform focused on group savings and financial managemen
 
 <br><br>
 
-### 🔗 WEB3
+### WEB3
 
 <img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" />
 
@@ -174,19 +174,19 @@ A multi-user financial platform focused on group savings and financial managemen
 
 <br><br>
 
-### 🗄️ DATABASES
+### DATABASES
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 
 <br><br>
 
-### ☁️ CLOUD & DEVOPS
+### CLOUD & DEVOPS
 
 <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github&theme=dark" />
 
 <br><br>
 
-### 🛠️ TOOLS
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,postman&theme=dark" />
 
@@ -194,7 +194,7 @@ A multi-user financial platform focused on group savings and financial managemen
 
 ---
 
-# 🧠 CURRENTLY EXPLORING
+# CURRENTLY EXPLORING
 
 <div align="center">
 
@@ -208,29 +208,10 @@ A multi-user financial platform focused on group savings and financial managemen
 
 > **Build systems. Break assumptions. Learn how everything connects.**
 
----
-
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abugaeugene&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=00000000" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abugaeugene&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abugaeugene&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000"/>
-
-</div>
 
 ---
 
-# 🛸 BEYOND THE CODE
+# BEYOND THE CODE
 
 <div align="center">
 
